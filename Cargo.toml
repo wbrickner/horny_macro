@@ -1,0 +1,12 @@
+[package]
+name = "horny_macro"
+version = "0.0.0"
+description="See the `horny` crate."
+authors = ["Will Brickner <wgbrickner@gmail.com>"]
+edition = "2018"
+repository="https://github.com/wbrickner/horny_macro"
+keywords=["polynomial", "horner"]
+license="MIT"
+
+[dependencies]
+proc-macro2 = "1.0.24"
